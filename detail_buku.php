@@ -354,7 +354,7 @@
 
       </div>
          <h4 class="h-100" style="margin-top: 1px;">Perpustakaan EAD</h4>  
-  <p class="text-secondary m-0">&copy Zulfa_1202194363</p></footer>
+  <p class="text-secondary m-0">&copy Dea_1202194365</p></footer>
 
 <!-- Akhir Footer -->
 
